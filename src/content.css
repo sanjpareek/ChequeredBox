@@ -1,0 +1,17 @@
+.right-box{
+    width: 500px;
+    height: auto;
+    background: linear-gradient(138deg,      black 50%, white 50%);
+}
+
+.text{
+    padding: 20px;
+    color: white;
+    mix-blend-mode: difference;
+}
+
+.main-box{
+    border: 1px solid black;
+    width: 500px;
+}
+
